@@ -1,5 +1,5 @@
 # Motion Detection System (OpenCV)
-
+youtube video:https://youtu.be/iBef84b5c0Y
 A real-time motion detection system built from scratch using OpenCV and Python.
 No pretrained models — pure computer vision techniques.
 
